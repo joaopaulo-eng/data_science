@@ -5,7 +5,7 @@
 </p>
 
 # João Paulo
-<sub>* Center</sub>
+<sub>*Control and Automation Engineer with a passion for data and programming*</sub>
 
 I'm a control and automation engineering student, I really like programming and I'm fascinated by the world of data and how we can extract useful information for decision making!
 
